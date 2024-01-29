@@ -22,9 +22,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 2,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "……オーディション、また落ちちゃった。",
+            "Phrase": "J'ai raté... encore une autre audition...",
             "VoiceFileName": "10101010120",
             "CharacterMotions": [
                 {
@@ -47,9 +47,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 3,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "はあ……。/nやっぱり、私じゃ無理なのかなあ……。",
+            "Phrase": "Ah.../nVraiment, je suis un cas désespéré.",
             "VoiceFileName": "10101010130",
             "CharacterMotions": [
                 {
@@ -72,7 +72,7 @@
             "GroupOrder": 4,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "ここななら、なれるよ。",
+            "Phrase": "Si c'est toi, tu y arriveras.",
             "VoiceFileName": "10101010140",
             "CharacterMotions": [
                 {
@@ -91,9 +91,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 5,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "え……？",
+            "Phrase": "Eh?",
             "VoiceFileName": "10101010150",
             "CharacterMotions": [
                 {
@@ -114,9 +114,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 6,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "ここななら、ダイスターになれる。",
+            "Phrase": "Si c'est toi, tu deviendras Dai Star",
             "VoiceFileName": "10101010160",
             "CharacterMotions": [
                 {
@@ -139,9 +139,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 7,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "……無理だよ、今日だって言われた。/n私にはセンスがないって。",
+            "Phrase": "C'est impossible, après tout aujourd'hui.../nJe n'ai même pas de talent.",
             "VoiceFileName": "10101010170",
             "CharacterMotions": [
                 {
@@ -164,9 +164,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 8,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "だから……ダイスターなんて夢のまた夢。",
+            "Phrase": "Sans ça, devenir Dai Star est un rêve si lointain.",
             "VoiceFileName": "10101010180",
             "CharacterMotions": [
                 {
@@ -187,9 +187,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 9,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "私はそう思わない！/nここなだって、本当は信じてないでしょ？",
+            "Phrase": "Je n'y crois pas du tout!/nKokona, crois-tu réellement cela?",
             "VoiceFileName": "10101010190",
             "CharacterMotions": [
                 {
@@ -211,9 +211,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 10,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "…………。",
+            "Phrase": "......",
             "VoiceFileName": "10101010200",
             "CharacterMotions": [
                 {
@@ -234,9 +234,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 11,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "ねえ、ここな。ワールドダイスターになれる人って、/nどんな人だかわかる？",
+            "Phrase": "Dis Kokona. Sais-tu quel genre de personnes peuvent devenir des World Dai Star?",
             "BackgroundImageFileName": "1130",
             "BgmFileName": "8",
             "SceneCameraMasterId": 6,
