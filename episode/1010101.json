@@ -4,7 +4,7 @@
     "Order": 1,
     "Prev": null,
     "Next": 1010102,
-    "Title": "これは、一人の少女の物語",
+    "Title": "Voici l'histoire d'une fille seule",
     "EpisodeDetail": [
         {
             "Id": 1010101001,
@@ -93,7 +93,7 @@
             "GroupOrder": 5,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Eh?",
+            "Phrase": "Hein?",
             "VoiceFileName": "10101010150",
             "CharacterMotions": [
                 {
@@ -236,7 +236,7 @@
             "GroupOrder": 11,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Dis Kokona. Sais-tu quel genre de personnes peuvent devenir des World Dai Star?",
+            "Phrase": "Dis Kokona./nSais-tu quel genre de personnes peuvent devenir World Dai Star?",
             "BackgroundImageFileName": "1130",
             "BgmFileName": "8",
             "SceneCameraMasterId": 6,
@@ -249,9 +249,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 12,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "お芝居が上手で……歌もダンスもうまくて……、/n誰もが目を奪われるくらい眩しい人……かな？",
+            "Phrase": "Quelqu'un de bon en théâtre... qui chante et danse bien,/nQuelqu'un de brillant qui peut voler le regard de tous.",
             "VoiceFileName": "10101010220",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -261,9 +261,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 13,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "ぜんっぜん違う！",
+            "Phrase": "Tu te trompes copmlètement!",
             "VoiceFileName": "10101010230",
             "CharacterMotions": [],
             "SpeakerIconId": "102"
@@ -273,9 +273,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 14,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "えっ！？",
+            "Phrase": "Hein!?",
             "VoiceFileName": "10101010240",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -285,9 +285,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 15,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "ワールドダイスターになれるのは……、/n明日の自分を信じられる人、よ。",
+            "Phrase": "Ceux qui peuvent devenir World Dai Star,/nC'est ceux qui croient en leur soi de demain.",
             "BackgroundImageFileName": "250",
             "VoiceFileName": "10101010250",
             "CharacterMotions": [
@@ -310,9 +310,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 16,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "だから……ここなも、なれる。",
+            "Phrase": "Alors toi aussi, tu peux le devenir, Kokona.",
             "VoiceFileName": "10101010260",
             "CharacterMotions": [
                 {
@@ -333,9 +333,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 2,
             "GroupOrder": 16,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "……私が、してみせる。",
+            "Phrase": "...Je vais te le montrer.",
             "VoiceFileName": "10101010261",
             "CharacterMotions": [
                 {
@@ -383,9 +383,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 19,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "ここが演劇の聖地、浅草……。",
+            "Phrase": "C'est le lieu saint du théâtre, Asakusa...",
             "VoiceFileName": "10101010270",
             "CharacterMotions": [],
             "SpeakerIconId": "102"
@@ -395,9 +395,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 20,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "と、とうとう来ちゃった……！",
+            "Phrase": "On, on est enfin arrivées!",
             "VoiceFileName": "10101010280",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -407,9 +407,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 21,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "劇団シリウスの書類審査を通過できたなんて、/nなんだか、まだ夢を見てるみたい……！",
+            "Phrase": "劇団シリウスの書類審査を通過できたなんて、/nJ'ai encore l'impression de rêver!",
             "VoiceFileName": "10101010290",
             "CharacterMotions": [
                 {
