@@ -25,7 +25,7 @@
             "Order": 1,
             "GroupOrder": 2,
             "FontSize": 2,
-            "Phrase": "Après les cours, des jeunes pleins de potentiel brûlent leur énergie dans les études, le sport, l'art et leurs loisirs. ",
+            "Phrase": "Après les cours, des jeunes pleins de potentiel brûlent leur énergie /ndans les études, le sport, l'art et leurs loisirs. ",
             "BackgroundImageFileName": "50",
             "SeFileName": "141",
             "VoiceFileName": "10401010020",
@@ -86,9 +86,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 6,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "最終決戦で圧倒的不利な状況だと思ったら、まさかあんな一手を……。/n予想外すぎてビックリしちゃった。",
+            "Phrase": "Je pensais qu'il allait perdre la bataille finale… Je ne m'attendais pas un retournement /nde situation comme celui-là… C'était tellement inattendu…",
             "VoiceFileName": "10401010050",
             "CharacterMotions": [
                 {
@@ -119,9 +119,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 7,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "やっほー。声が聞こえると思ったら。/n何、またアニメの話？",
+            "Phrase": ": Salut ! J'ai cru entendre des voix. /nOh, vous parlez encore d'anime ?",
             "VoiceFileName": "10401010060",
             "CharacterMotions": [
                 {
@@ -143,9 +143,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 8,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "あ、カミラちゃん。はい、そうです。アニメです。",
+            "Phrase": "Ah, Kamira ! Oui, c'est ça.",
             "VoiceFileName": "10401010070",
             "CharacterMotions": [
                 {
@@ -167,9 +167,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 8,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "カミラちゃんも、よかったら観てください。",
+            "Phrase": "Regarde, Kamira.",
             "VoiceFileName": "10401010071",
             "CharacterMotions": [
                 {
@@ -192,9 +192,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 9,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "なんてアニメ？",
+            "Phrase": "C'est quel anime ?",
             "VoiceFileName": "10401010080",
             "CharacterMotions": [
                 {
@@ -218,7 +218,7 @@
             "GroupOrder": 10,
             "SpeakerName": "いろは",
             "FontSize": 2,
-            "Phrase": "『コードギアス 反逆のルルーシュ』ですっ。/n次、最終話なんですけど展開がハラハラドキドキなんですよっ。",
+            "Phrase": "Code Geass : Lelouch of the Rebellion. Le prochain épisode sera le dernier, /net il y a un développement palpitant !",
             "VoiceFileName": "10401010090",
             "CharacterMotions": [
                 {
