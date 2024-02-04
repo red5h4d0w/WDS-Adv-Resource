@@ -116,7 +116,7 @@
             "GroupOrder": 6,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Si c'est toi, tu deviendras Dai Star.",
+            "Phrase": "Si c'est toi, tu deviendras une Dai Star.",
             "VoiceFileName": "10101010160",
             "CharacterMotions": [
                 {
@@ -166,7 +166,7 @@
             "GroupOrder": 8,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Sans ça, devenir Dai Star est un rêve si lointain.",
+            "Phrase": "Sans ça, devenir une Dai Star est un rêve si lointain.",
             "VoiceFileName": "10101010180",
             "CharacterMotions": [
                 {
@@ -236,7 +236,7 @@
             "GroupOrder": 11,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Dis Kokona./nSais-tu quel genre de personnes peuvent devenir World Dai Star?",
+            "Phrase": "Dis Kokona./nSais-tu quel genre de personnes peuvent devenir des World Dai Star ?",
             "BackgroundImageFileName": "1130",
             "BgmFileName": "8",
             "SceneCameraMasterId": 6,
@@ -263,7 +263,7 @@
             "GroupOrder": 13,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Tu te trompes complètement!",
+            "Phrase": "Tu te trompes complètement !",
             "VoiceFileName": "10101010230",
             "CharacterMotions": [],
             "SpeakerIconId": "102"
@@ -275,7 +275,7 @@
             "GroupOrder": 14,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Hein!?",
+            "Phrase": "Hein !?",
             "VoiceFileName": "10101010240",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -397,7 +397,7 @@
             "GroupOrder": 20,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "On, on est enfin arrivées!",
+            "Phrase": "On, on est enfin arrivées !",
             "VoiceFileName": "10101010280",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -409,7 +409,7 @@
             "GroupOrder": 21,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "劇団シリウスの書類審査を通過できたなんて、/nJ'ai encore l'impression de rêver!",
+            "Phrase": "劇団シリウスの書類審査を通過できたなんて、/nJ'ai encore l'impression de rêver !",
             "VoiceFileName": "10101010290",
             "CharacterMotions": [
                 {
