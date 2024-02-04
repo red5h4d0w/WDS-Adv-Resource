@@ -4,7 +4,7 @@
     "Order": 1,
     "Prev": null,
     "Next": 1040102,
-    "Title": "大好きなもの",
+    "Title": "La chose que j'aime",
     "EpisodeDetail": [
         {
             "Id": 1040101001,
@@ -12,7 +12,7 @@
             "Order": 1,
             "GroupOrder": 1,
             "FontSize": 2,
-            "Phrase": "――東上野高校。/nそこは、どこにでもある普通の高校。",
+            "Phrase": "Le lycée East Ueno, un lycée banal comme on peut retrouver partout",
             "BackgroundImageFileName": "40",
             "BgmFileName": "301",
             "VoiceFileName": "10401010010",
@@ -25,7 +25,7 @@
             "Order": 1,
             "GroupOrder": 2,
             "FontSize": 2,
-            "Phrase": "放課後ともなれば、可能性の詰まった若者たちは、/n勉学やスポーツ、芸術、そして趣味へと若い力を燃やしています。",
+            "Phrase": "Après les cours, des jeunes pleins de potentiel brûlent leur énergie dans les études, le sport, l'art et leurs loisirs. ",
             "BackgroundImageFileName": "50",
             "SeFileName": "141",
             "VoiceFileName": "10401010020",
@@ -52,7 +52,7 @@
             "Order": 1,
             "GroupOrder": 4,
             "FontSize": 2,
-            "Phrase": "そしてここにも、燃え上がっている少女がふたり。",
+            "Phrase": "C’est aussi le cas de deux filles pleines de ressources.",
             "VoiceFileName": "10401010030",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
@@ -62,9 +62,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 5,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "いや～、昨日の『ルルーシュ』にはビックリしちゃいましたよ。/n伏線をあんな形で回収するなんてっ。",
+            "Phrase": "Hier, Lelouch m’a vraiment choqué. /n Je n’en reviens toujours pas qu’il est pu prévoir tout ça.",
             "VoiceFileName": "10401010040",
             "CharacterMotions": [
                 {
