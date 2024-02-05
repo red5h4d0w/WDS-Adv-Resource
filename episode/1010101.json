@@ -287,7 +287,7 @@
             "GroupOrder": 15,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Ceux qui peuvent devenir World Dai Star,/nC'est ceux qui croient en leur soi de demain.",
+            "Phrase": "Ceux qui peuvent devenir des World Dai Star,/nC'est ceux qui croient en leur soi de demain.",
             "BackgroundImageFileName": "250",
             "VoiceFileName": "10101010250",
             "CharacterMotions": [
@@ -409,7 +409,7 @@
             "GroupOrder": 21,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "劇団シリウスの書類審査を通過できたなんて、/nJ'ai encore l'impression de rêver !",
+            "Phrase": "J'ai passé la présélection pour la troupe de théâtre Sirius,/nJ'ai encore l'impression de rêver !",
             "VoiceFileName": "10101010290",
             "CharacterMotions": [
                 {
@@ -431,9 +431,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 22,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "劇団シリウス……。/nここなが初めて観たお芝居も、そこだったのよね？",
+            "Phrase": "La troupe Sirius.../nLa première fois que tu as vu une pièce de théâtre, c'était eux, n'est-ce pas ?",
             "VoiceFileName": "10101010300",
             "CharacterMotions": [
                 {
@@ -455,9 +455,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 23,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "うん！　/nだから、オーディションを受験できるだけでも――",
+            "Phrase": "Tout à fait !/nC'est pour ça que juste faire cette audition me réjou--",
             "VoiceFileName": "10101010310",
             "CharacterMotions": [
                 {
@@ -480,9 +480,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 24,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "甘いっ！",
+            "Phrase": "Ça suffit !",
             "VoiceFileName": "10101010320",
             "CharacterMotions": [
                 {
@@ -505,9 +505,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 25,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "ええっ！？",
+            "Phrase": "Hein !?",
             "VoiceFileName": "10101010330",
             "CharacterMotions": [
                 {
@@ -529,9 +529,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 26,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "甘いわ、ここな！/n今日は是が非でも合格する……そのくらいの気概でいかなくっちゃ！",
+            "Phrase": "Ça suffit, Kokona !/nTu la passeras à coup sûr cette audition... Tu dois y aller avec ça en tête !",
             "VoiceFileName": "10101010340",
             "CharacterMotions": [
                 {
@@ -562,9 +562,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 27,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "う、うん！　そうだよね。/nお父さんやお母さんも応援してくれてるんだもん。",
+            "Phrase": "Ou, oui ! T'as raison./nAprès tout, mes parents ont confiance en moi.",
             "VoiceFileName": "10101010350",
             "CharacterMotions": [
                 {
@@ -597,7 +597,7 @@
             "GroupOrder": 28,
             "SpeakerName": "静香",
             "FontSize": 2,
-            "Phrase": "そうよ！/n今度こそいい結果を報告できるように、頑張りましょう！",
+            "Phrase": "Tout à fait!/nCette fois-ci, tu devrais y parvenir, Vas-y fonce!",
             "VoiceFileName": "10101010360",
             "CharacterMotions": [
                 {
@@ -628,9 +628,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 29,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "うん！　一緒に頑張ろうね、静香ちゃん。",
+            "Phrase": "Oui ! Faisons de notre mieux, Shizuka.",
             "VoiceFileName": "10101010370",
             "CharacterMotions": [
                 {
@@ -661,9 +661,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 30,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "何言ってるの。オーディションを受けるのはあなたよ、ここな。/n私はただ、あなたを応援――",
+            "Phrase": "De quoi tu parles. Celle qui passe une audition, c'est toi, Kokona./nJe ne peux que te souteni--",
             "VoiceFileName": "10101010380",
             "CharacterMotions": [
                 {
@@ -695,7 +695,7 @@
             "GroupOrder": 31,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "お～い、そこのお嬢さ～ん！",
+            "Phrase": "Hey, jeune fille !",
             "BgmFileName": "999",
             "VoiceFileName": "10101010390",
             "CharacterMotions": [],
@@ -706,9 +706,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 32,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "あら、誰かしら？",
+            "Phrase": "Oh, qui est-ce?",
             "VoiceFileName": "10101010400",
             "CharacterMotions": [
                 {
@@ -732,7 +732,7 @@
             "GroupOrder": 33,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "このパスケース、君のだよね？/nさっき駅の改札で落としてたよ～？",
+            "Phrase": "Cet étui à cartes, c'est le tien ?/nTu l'as échappé au guichet de la gare~ ?",
             "BgmFileName": "402",
             "VoiceFileName": "10101010410",
             "CharacterMotions": [
@@ -755,9 +755,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 34,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "あ、あれ？/n本当だ、いつの間に……！？",
+            "Phrase": "Oh, quoi?/nEn effet, quand est-ce que... !?",
             "VoiceFileName": "10101010420",
             "CharacterMotions": [
                 {
@@ -779,9 +779,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 35,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "もう、ここなったら……。",
+            "Phrase": "C'est du Kokona tout craché...",
             "VoiceFileName": "10101010430",
             "CharacterMotions": [
                 {
@@ -804,9 +804,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 36,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "ありがとうございます、助かりました！",
+            "Phrase": "Merci énormément, ça me sauve la vie !",
             "VoiceFileName": "10101010440",
             "CharacterMotions": [
                 {
@@ -831,7 +831,7 @@
             "GroupOrder": 37,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "どういたしまして～",
+            "Phrase": "Y'a pas de quoi~",
             "VoiceFileName": "10101010450",
             "CharacterMotions": [
                 {
@@ -863,7 +863,7 @@
             "GroupOrder": 37,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "……って、おんやぁ？",
+            "Phrase": "Mais, dis donc ?",
             "VoiceFileName": "10101010451",
             "CharacterMotions": [
                 {
@@ -895,7 +895,7 @@
             "GroupOrder": 38,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "キャリーケース……ってことは、浅草には観光で？",
+            "Phrase": "Avec une valise de même, tu visites Asakusa?",
             "VoiceFileName": "10101010460",
             "CharacterMotions": [
                 {
@@ -925,7 +925,7 @@
             "GroupOrder": 38,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "穴場とか教えたげよっか～？",
+            "Phrase": "Je peux te montrer les perles rares du coin~ ?",
             "VoiceFileName": "10101010461",
             "CharacterMotions": [
                 {
@@ -954,9 +954,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 39,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "あ、いえ……観光というか、/n浅草には、オーディションを受けに来たんです。",
+            "Phrase": "Ah, non... Ce n'est pas vraiment du tourisme/nC'est que je viens passer une audition à Asakusa.",
             "VoiceFileName": "10101010470",
             "CharacterMotions": [
                 {
@@ -988,7 +988,7 @@
             "GroupOrder": 40,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "オーディション……。",
+            "Phrase": "Une audition...",
             "VoiceFileName": "10101010480",
             "CharacterMotions": [
                 {
@@ -1012,7 +1012,7 @@
             "GroupOrder": 41,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "へえ～。そうなんだ～。",
+            "Phrase": "Oh~. Alors c'est ça~.",
             "VoiceFileName": "10101010490",
             "CharacterMotions": [
                 {
@@ -1046,7 +1046,7 @@
             "GroupOrder": 41,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "……ちなみに、どこの劇団？",
+            "Phrase": "...D'ailleurs, c'est pour quelle troupe ?",
             "VoiceFileName": "10101010491",
             "CharacterMotions": [
                 {
@@ -1076,9 +1076,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 42,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "劇団シリウスです。",
+            "Phrase": "La troupe Sirius.",
             "VoiceFileName": "10101010500",
             "CharacterMotions": [
                 {
@@ -1110,7 +1110,7 @@
             "GroupOrder": 43,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "……シリウスっ！？",
+            "Phrase": "...Sirius !?",
             "VoiceFileName": "10101010510",
             "CharacterMotions": [
                 {
@@ -1132,9 +1132,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 44,
-            "SpeakerName": "ここな・静香",
+            "SpeakerName": "Kokona, Shizuka",
             "FontSize": 2,
-            "Phrase": "わわっ！？",
+            "Phrase": "WOUAH !?",
             "VoiceFileName": "10101010520",
             "CharacterMotions": [
                 {
@@ -1169,7 +1169,7 @@
             "GroupOrder": 45,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "ちょっと大黒。/n急に大きな声出さないでよ～？",
+            "Phrase": "Doucement, Daikoku./nNe crie pas si fort si brusquement~ ?",
             "VoiceFileName": "10101010530",
             "CharacterMotions": [
                 {
@@ -1202,9 +1202,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 46,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "あなた今、劇団シリウスって言ったわよね？",
+            "Phrase": "À cet instant, vous, vous parliez de la troupe Sirius, n'est-ce pas ?",
             "VoiceFileName": "10101010540",
             "CharacterMotions": [
                 {
@@ -1232,9 +1232,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 47,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "え？　は、はい。",
+            "Phrase": "Euh ? Ou, oui.",
             "VoiceFileName": "10101010550",
             "CharacterMotions": [
                 {
@@ -1256,9 +1256,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 48,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "劇団シリウス……。/n日本が誇るワールドダイスター『山吹シャモ』が立ち上げた、少女劇団……。",
+            "Phrase": "La troupe Sirius.../nLa troupe pour femmes lancée par Shamo Yamabuki, cette World Dai star qui fait la fierté du Japon...",
             "VoiceFileName": "10101010560",
             "CharacterMotions": [
                 {
@@ -1280,9 +1280,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 49,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "なのに、今は劇団を盛り上げるダイスターは不在。/nつまりシリウスは、今や地に落ちた星も同然……。",
+            "Phrase": "Toutefois, la troupe n'a pas de Dai Star à l'heure actuelle./nC'est comme une étoile qui tombe au sol.",
             "VoiceFileName": "10101010570",
             "CharacterMotions": [
                 {
@@ -1304,9 +1304,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 50,
-            "SpeakerName": "ここな・静香",
+            "SpeakerName": "Kokona, Shizuka",
             "FontSize": 2,
-            "Phrase": "……！？",
+            "Phrase": "... !?",
             "VoiceFileName": "10101010580",
             "CharacterMotions": [
                 {
@@ -1341,7 +1341,7 @@
             "GroupOrder": 51,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "元ダイスターの柊さん、今は裏方だしね～。/nでも、有望な若手もいるし――",
+            "Phrase": "L'ancienne Dai Star Hiiragi, elle est maintenant dans leurs coulisses./nMais, ils ont des jeunes talents prometteurs--",
             "VoiceFileName": "10101010590",
             "CharacterMotions": [
                 {
@@ -1363,9 +1363,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 52,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "……完全なる引導は私が渡すわ。/nこの私を否定した劇団に、思い知らせてやる。",
+            "Phrase": "...Laissez-moi vous dire quelque chose./nCette troupe qui n'a pas voulu de moi, je me souviendrai d'eux.",
             "VoiceFileName": "10101010600",
             "CharacterMotions": [
                 {
@@ -1388,9 +1388,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 53,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "え、えっと……？",
+            "Phrase": "Euh. quoi... ?",
             "VoiceFileName": "10101010610",
             "CharacterMotions": [
                 {
@@ -1414,7 +1414,7 @@
             "GroupOrder": 54,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "はあ～。ま～た大黒の悪い癖が始まった。",
+            "Phrase": "Aaah~. La voilà qui recommence à parler en mal.",
             "VoiceFileName": "10101010620",
             "CharacterMotions": [
                 {
@@ -1439,7 +1439,7 @@
             "GroupOrder": 55,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "ごめんね～？　大黒はシリウスのオーディション３回落ちてて、/nちょっと逆恨みしてるっていうか～。",
+            "Phrase": "Désolée~ Daikoku a raté l'audition pour Sirius trois fois./nElle leur en veut peut-être un peu~.",
             "VoiceFileName": "10101010630",
             "CharacterMotions": [
                 {
@@ -1463,7 +1463,7 @@
             "GroupOrder": 56,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "まあ、その憎しみを糧にして、/nうちの劇団に入れたわけだけどさ～。",
+            "Phrase": "Ne vous inquiétez pas trop pour cela,/nElle a pu rejoindre ma troupe.",
             "VoiceFileName": "10101010640",
             "CharacterMotions": [
                 {
@@ -1484,9 +1484,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 57,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "それじゃあ、あなたたちも演劇を？",
+            "Phrase": "Alors, vous êtes vous-aussi comédiens ?",
             "VoiceFileName": "10101010650",
             "CharacterMotions": [
                 {
@@ -1508,9 +1508,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 58,
-            "SpeakerName": "容",
+            "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "うん。アタシは萬容。こっちの烏森大黒と、/n『Eden』っていう劇団に所属してるんだ～。",
+            "Phrase": "Ouaip. Je m'appelle Iruru Yorozu. Elle, c'est Daikoku Karasumori,/n et nous jouons ensemble dans une troupe nommée Eden.",
             "VoiceFileName": "10101010660",
             "CharacterMotions": [
                 {
@@ -1542,9 +1542,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 59,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "劇団Eden？　聞いたことないわね。",
+            "Phrase": "La troupe Eden ? Ça ne me dit rien.",
             "VoiceFileName": "10101010670",
             "CharacterMotions": [
                 {
@@ -1576,9 +1576,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 60,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "ちょ！　し、静香ちゃん……！",
+            "Phrase": "Chut ! Shi, Shizuka !",
             "VoiceFileName": "10101010680",
             "CharacterMotions": [
                 {
@@ -1608,9 +1608,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 61,
-            "SpeakerName": "容",
+            "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "……ん？　何か言った～？",
+            "Phrase": "Mmh ? Qu'y a-t-il ?",
             "VoiceFileName": "10101010690",
             "CharacterMotions": [
                 {
@@ -1632,9 +1632,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 62,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "な、なんでもないです！",
+            "Phrase": "Euh, rien du tout, haha !",
             "VoiceFileName": "10101010700",
             "CharacterMotions": [
                 {
@@ -1657,9 +1657,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 63,
-            "SpeakerName": "容",
+            "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "ふ～ん？　そんじゃまあ、アタシらはこのへんで。",
+            "Phrase": "Hmmh ? Eh bien, nous partons dans cette direction",
             "VoiceFileName": "10101010710",
             "CharacterMotions": [
                 {
@@ -1693,7 +1693,7 @@
             "GroupOrder": 63,
             "SpeakerName": "容",
             "FontSize": 2,
-            "Phrase": "オーディション、がんばってね～。",
+            "Phrase": "Bonne chance pour l'audition~.",
             "VoiceFileName": "10101010711",
             "CharacterMotions": [
                 {
@@ -1723,9 +1723,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 64,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "ちょっと、容さん！/n敵に塩を送るような真似……しかもシリウスなんか受ける子に……っ！",
+            "Phrase": "Attends, Iruru !/nTu ne peux quand même pas souhaiter «Bonne chance» à ces ennemis... En plus à quelqu'un qui applique à Sirius !",
             "VoiceFileName": "10101010720",
             "CharacterMotions": [
                 {
@@ -1754,9 +1754,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 65,
-            "SpeakerName": "容",
+            "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "はいはい、大黒の愚痴はこの容さんが、/n朝までゆ～っくり聞いてあげるから～。",
+            "Phrase": "Ouioui, Iruru va pouvoir écouter attentivement~/ntes médires, jusqu'au petit matin~.",
             "VoiceFileName": "10101010730",
             "CharacterMotions": [
                 {
@@ -1786,9 +1786,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 66,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "ちょ、引っ張らないでください！",
+            "Phrase": "Hé, ne me tire pas s'il te plaît !",
             "VoiceFileName": "10101010740",
             "CharacterMotions": [
                 {
@@ -1812,7 +1812,7 @@
             "GroupOrder": 66,
             "SpeakerName": "大黒",
             "FontSize": 2,
-            "Phrase": "……許されないわっ！　シリウス～っ！！",
+            "Phrase": "... Je ne vous le pardonnerai pas ! Sirius !!",
             "VoiceFileName": "10101010741",
             "CharacterMotions": [
                 {
@@ -1834,9 +1834,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 67,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "はあ……。なんだか嵐みたいな人たちだったわね。",
+            "Phrase": "Aah... Toute une tempête que c'était.",
             "BgmFileName": "999",
             "VoiceFileName": "10101010750",
             "CharacterMotions": [
@@ -1859,9 +1859,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 68,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "あ、あはははは。/nでも、パスケース拾ってもらえて助かったよ。",
+            "Phrase": "Aaaah, ha haha./nPar contre, ça a été d'une grande aide de retrouve mon étui à cartes.",
             "VoiceFileName": "10101010760",
             "CharacterMotions": [
                 {
@@ -1883,9 +1883,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 69,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "……それじゃあ、気を取り直して行くわよ、ここな。",
+            "Phrase": "...Maintenant, Allons-y d'un pas ferme, Kokona.",
             "VoiceFileName": "10101010770",
             "CharacterMotions": [
                 {
@@ -1915,9 +1915,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 70,
-            "SpeakerName": "ここな",
+            "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "うん！",
+            "Phrase": "Oui !",
             "VoiceFileName": "10101010780",
             "CharacterMotions": [
                 {
@@ -1947,9 +1947,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 71,
-            "SpeakerName": "ここな・静香",
+            "SpeakerName": "Kokona, Shizuka",
             "FontSize": 2,
-            "Phrase": "いざ、劇団シリウスのオーディションへ……！",
+            "Phrase": "On y va! Vers l'audition de la troupe Sirius... !",
             "VoiceFileName": "10101010790",
             "CharacterMotions": [
                 {
