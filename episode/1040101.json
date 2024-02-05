@@ -12,7 +12,7 @@
             "Order": 1,
             "GroupOrder": 1,
             "FontSize": 2,
-            "Phrase": "Le lycée East Ueno, un lycée banal comme on peut retrouver partout",
+            "Phrase": "Le lycée East Ueno, un lycée banal comme on peut retrouver partout.",
             "BackgroundImageFileName": "40",
             "BgmFileName": "301",
             "VoiceFileName": "10401010010",
@@ -471,7 +471,7 @@
             "GroupOrder": 17,
             "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "Pas de problème, mais fais attention à ne pas te blesser dans la hâte. /nBon, à la semaine prochaine!",
+            "Phrase": "Pas de problème, mais fais attention à ne pas te blesser dans la hâte. /nBon, à la semaine prochaine !",
             "VoiceFileName": "10401010160",
             "CharacterMotions": [
                 {
@@ -962,7 +962,7 @@
             "GroupOrder": 30,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "Hein ? Iroha-chan, c'est...",
+            "Phrase": "Hein ? Iroha, c'est...",
             "VoiceFileName": "10401010280",
             "CharacterMotions": [
                 {
