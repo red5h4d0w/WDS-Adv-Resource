@@ -88,7 +88,7 @@
             "GroupOrder": 6,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "Je pensais qu'il allait perdre la bataille finale... /nJe ne m'attendais pas un retournement de situation comme celui-là... /nC'était tellement inattendu...",
+            "Phrase": "Je pensais qu'il allait perdre la bataille finale... \nJe ne m'attendais pas un retournement de situation comme celui-là... \nC'était tellement inattendu...",
             "VoiceFileName": "10401010050",
             "CharacterMotions": [
                 {
@@ -218,7 +218,7 @@
             "GroupOrder": 10,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Code Geass : Lelouch of the Rebellion. /nLe prochain épisode sera le dernier, et le développement palpitant !",
+            "Phrase": "Code Geass : Lelouch of the Rebellion. /nLe prochain épisode sera le dernier, et le développement est palpitant !",
             "VoiceFileName": "10401010090",
             "CharacterMotions": [
                 {
@@ -529,7 +529,7 @@
             "GroupOrder": 19,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "Oui !  On pourrait en parler sans jamais s'arrêter.",
+            "Phrase": "Oui ! On pourrait en parler sans jamais s'arrêter.",
             "VoiceFileName": "10401010180",
             "CharacterMotions": [
                 {
@@ -1090,7 +1090,7 @@
             "GroupOrder": 34,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "O-Ouah, leur prochaine représentation /nc'est Code Geass : Lelouch of the Rebellion.",
+            "Phrase": "O-Ouah, leur prochaine représentation \nc'est Code Geass : Lelouch of the Rebellion.",
             "VoiceFileName": "10401010320",
             "CharacterMotions": [
                 {
@@ -1122,7 +1122,7 @@
             "GroupOrder": 35,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Les précédentes représentations ont reçues de bons avis sur internet. /nLes costumes sont aussi bien travaillés, /nalors je me suis dit qu'il fallait absolument que j'y assiste.",
+            "Phrase": "Les précédentes représentations ont reçues de bons avis sur internet. \nLes costumes sont aussi bien travaillés, \nalors je me suis dit qu'il fallait absolument que j'y assiste.",
             "VoiceFileName": "10401010330",
             "CharacterMotions": [
                 {
@@ -1220,7 +1220,7 @@
             "GroupOrder": 37,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "C'est décidé ! Bon, je vais chercher les billets tout de suite !",
+            "Phrase": "C'est décidé ! \nBon, je vais chercher les billets tout de suite !",
             "VoiceFileName": "10401010350",
             "CharacterMotions": [
                 {
@@ -1463,7 +1463,7 @@
             "GroupOrder": 45,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "L'atmosphère de l'œuvre originale a été conservée, et pourtant, /nl'œuvre originale a été habilement réarrangée pour faire ressortir le charme de l'œuvre... !",
+            "Phrase": "L'atmosphère de l'œuvre originale a été conservée, et pourtant, \nl'œuvre originale a été habilement réarrangée pour faire ressortir \nle charme de l'œuvre... !",
             "VoiceFileName": "10401010420",
             "CharacterMotions": [
                 {
@@ -1496,7 +1496,7 @@
             "GroupOrder": 46,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Je ne m'attendais pas à ce que les choses finissent comme ça ! /nEt pourtant il n'y a pas de contradictions. J'ai hâte de voir la prochaine représentation !",
+            "Phrase": "Je ne m'attendais pas à ce que les choses finissent comme ça ! \nEt pourtant il n'y a pas de contradictions. \nJ'ai hâte de voir la prochaine représentation !",
             "VoiceFileName": "10401010430",
             "CharacterMotions": [
                 {
@@ -1685,7 +1685,7 @@
             "GroupOrder": 53,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "C'est décidé alors ! Inscrivons-nous à l'examen d'entrée ! Hm, le site...",
+            "Phrase": "C'est décidé alors ! \nInscrivons-nous à l'examen d'entrée ! \nHm, le site...",
             "VoiceFileName": "10401010500",
             "CharacterMotions": [
                 {
@@ -1794,7 +1794,7 @@
             "Order": 1,
             "GroupOrder": 57,
             "FontSize": 2,
-            "Phrase": "C'est ainsi que leur passion naissante, /nguidée par la lumière éclatante émise par Denki, /nouvre les rideaux sur une nouvelle histoire.",
+            "Phrase": "C'est ainsi que leur passion naissante, \nguidée par la lumière éclatante émise par Denki, \nouvre les rideaux sur une nouvelle histoire.",
             "VoiceFileName": "10401010530",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
