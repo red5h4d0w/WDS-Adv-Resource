@@ -24,7 +24,7 @@
             "GroupOrder": 2,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "J'ai raté... encore une autre audition...",
+            "Phrase": "J'ai raté encore... une autre audition...",
             "VoiceFileName": "10101010120",
             "CharacterMotions": [
                 {
@@ -287,7 +287,7 @@
             "GroupOrder": 15,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Ceux qui peuvent devenir des World Dai Star,/nC'est ceux qui croient en leur soi de demain.",
+            "Phrase": "Ceux qui peuvent devenir des World Dai Star,/nC'est ceux qui croient en leur avenir.",
             "BackgroundImageFileName": "250",
             "VoiceFileName": "10101010250",
             "CharacterMotions": [
@@ -397,7 +397,7 @@
             "GroupOrder": 20,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "On, on est enfin arrivées !",
+            "Phrase": "On... On est enfin arrivées !",
             "VoiceFileName": "10101010280",
             "CharacterMotions": [],
             "SpeakerIconId": "101"
@@ -564,7 +564,7 @@
             "GroupOrder": 27,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Ou, oui ! T'as raison./nAprès tout, mes parents ont confiance en moi.",
+            "Phrase": "Ou- oui ! T'as raison./nAprès tout, mes parents ont confiance en moi.",
             "VoiceFileName": "10101010350",
             "CharacterMotions": [
                 {
@@ -595,9 +595,9 @@
             "EpisodeMasterId": 1010101,
             "Order": 1,
             "GroupOrder": 28,
-            "SpeakerName": "静香",
+            "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Tout à fait!/nCette fois-ci, tu devrais y parvenir, Vas-y fonce!",
+            "Phrase": "Tout à fait!/nCette fois-ci, tu devrais y parvenir, alors fonce!",
             "VoiceFileName": "10101010360",
             "CharacterMotions": [
                 {
@@ -895,7 +895,7 @@
             "GroupOrder": 38,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Avec une valise de même, tu visites Asakusa?",
+            "Phrase": "Je vois que t'as une valise... tu visites Asakusa?",
             "VoiceFileName": "10101010460",
             "CharacterMotions": [
                 {
@@ -1134,7 +1134,7 @@
             "GroupOrder": 44,
             "SpeakerName": "Kokona, Shizuka",
             "FontSize": 2,
-            "Phrase": "WOUAH !?",
+            "Phrase": "OUAH !?",
             "VoiceFileName": "10101010520",
             "CharacterMotions": [
                 {
@@ -1258,7 +1258,7 @@
             "GroupOrder": 48,
             "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "La troupe Sirius.../nLa troupe pour femmes lancée par Shamo Yamabuki,/ncette World Dai star qui fait la fierté du Japon...",
+            "Phrase": "La troupe Sirius.../nLa troupe pour femmes lancée par Shamo Yamabuki,\ncette World Dai star qui fait la fierté du Japon...",
             "VoiceFileName": "10101010560",
             "CharacterMotions": [
                 {
@@ -1486,7 +1486,7 @@
             "GroupOrder": 57,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Alors, vous êtes vous aussi comédiens ?",
+            "Phrase": "Alors, vous aussi vous êtes des actrices ?",
             "VoiceFileName": "10101010650",
             "CharacterMotions": [
                 {
@@ -1610,7 +1610,7 @@
             "GroupOrder": 61,
             "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "Mmh ? Qu'y a-t-il ?",
+            "Phrase": "Mmh ? Y'a un problème ?",
             "VoiceFileName": "10101010690",
             "CharacterMotions": [
                 {
@@ -1725,7 +1725,7 @@
             "GroupOrder": 64,
             "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "Attends, Iruru !/nTu ne peux quand même pas souhaiter «Bonne chance» à ces ennemis.../nEn plus à quelqu'un qui applique à Sirius !",
+            "Phrase": "Attends, Iruru !/nTu ne peux quand même pas souhaiter «Bonne chance» à une ennemie...\nEn plus à quelqu'un qui applique à Sirius !",
             "VoiceFileName": "10101010720",
             "CharacterMotions": [
                 {
@@ -1756,7 +1756,7 @@
             "GroupOrder": 65,
             "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "Ouioui, Iruru va pouvoir écouter attentivement～ tes médires,/njusqu'au petit matin～.",
+            "Phrase": "Ouioui, Iruru va pouvoir écouter attentivement tes médires～,/njusqu'au petit matin～.",
             "VoiceFileName": "10101010730",
             "CharacterMotions": [
                 {
@@ -1810,7 +1810,7 @@
             "EpisodeMasterId": 1010101,
             "Order": 2,
             "GroupOrder": 66,
-            "SpeakerName": "大黒",
+            "SpeakerName": "Daikoku",
             "FontSize": 2,
             "Phrase": "... Je ne vous le pardonnerai pas ! Sirius !!",
             "VoiceFileName": "10101010741",
@@ -1836,7 +1836,7 @@
             "GroupOrder": 67,
             "SpeakerName": "Shizuka",
             "FontSize": 2,
-            "Phrase": "Aah... Toute une tempête que c'était.",
+            "Phrase": "Aah... C'était quelque chose.",
             "BgmFileName": "999",
             "VoiceFileName": "10101010750",
             "CharacterMotions": [
