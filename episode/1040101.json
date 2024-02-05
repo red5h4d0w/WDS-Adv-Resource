@@ -88,7 +88,7 @@
             "GroupOrder": 6,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "Je pensais qu'il allait perdre la bataille finale… Je ne m'attendais pas un retournement /nde situation comme celui-là… C'était tellement inattendu…",
+            "Phrase": "Je pensais qu'il allait perdre la bataille finale... Je ne m'attendais pas un retournement /nde situation comme celui-là... C'était tellement inattendu...",
             "VoiceFileName": "10401010050",
             "CharacterMotions": [
                 {
@@ -121,7 +121,7 @@
             "GroupOrder": 7,
             "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": ": Salut ! J'ai cru entendre des voix. /nOh, vous parlez encore d'anime ?",
+            "Phrase": "Salut ! J'ai cru entendre des voix. /nQuoi, vous parlez encore d'anime ?",
             "VoiceFileName": "10401010060",
             "CharacterMotions": [
                 {
@@ -145,7 +145,7 @@
             "GroupOrder": 8,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Ah, Kamira ! Oui, c'est ça.",
+            "Phrase": "Ah, Kamira ! Oui, c'est ça. On parle d'anime.",
             "VoiceFileName": "10401010070",
             "CharacterMotions": [
                 {
@@ -169,7 +169,7 @@
             "GroupOrder": 8,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Regarde, Kamira.",
+            "Phrase": "Regarde si ça t'intéresse, Kamira.",
             "VoiceFileName": "10401010071",
             "CharacterMotions": [
                 {
@@ -218,7 +218,7 @@
             "GroupOrder": 10,
             "SpeakerName": "いろは",
             "FontSize": 2,
-            "Phrase": "Code Geass : Lelouch of the Rebellion. Le prochain épisode sera le dernier, /net il y a un développement palpitant !",
+            "Phrase": "Code Geass : Lelouch of the Rebellion. Le prochain épisode sera le dernier, /net le développement palpitant !",
             "VoiceFileName": "10401010090",
             "CharacterMotions": [
                 {
@@ -241,9 +241,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 11,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "あっ、今から観ませんか？",
+            "Phrase": "Oh, pourquoi ne pas le regarder maintenant ?",
             "VoiceFileName": "10401010100",
             "CharacterMotions": [
                 {
@@ -265,9 +265,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 11,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "スマホの画面はちっちゃいけど、詰めれば……。",
+            "Phrase": "L'écran de mon téléphone est petit mais si on se serre...",
             "VoiceFileName": "10401010101",
             "CharacterMotions": [
                 {
@@ -290,9 +290,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 12,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "あはは。ありがと。",
+            "Phrase": "Haha, merci !",
             "VoiceFileName": "10401010110",
             "CharacterMotions": [
                 {
@@ -315,9 +315,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 12,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "それより、まだ帰らなくていいん？",
+            "Phrase": "D'ailleurs, tu ne dois pas y aller ?",
             "VoiceFileName": "10401010111",
             "CharacterMotions": [
                 {
@@ -339,9 +339,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 13,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "……わわっ、もう誰もいませんっ！/nバイトの時間に遅れちゃいます！",
+            "Phrase": "Ouah, tout le monde est déjà parti ! Je vais être en retard au boulot !",
             "VoiceFileName": "10401010120",
             "CharacterMotions": [
                 {
@@ -363,9 +363,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 14,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "美兎も……図書室に本を返さないと。",
+            "Phrase": "M-Moi aussi, je dois aller rendre des livres à la bibliothèque.",
             "VoiceFileName": "10401010130",
             "CharacterMotions": [
                 {
@@ -396,9 +396,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 15,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "まーた盛り上がって時間忘れてただけか。",
+            "Phrase": "Tu t'es encore emballée et tu as oublié l'heure, quoi.",
             "VoiceFileName": "10401010140",
             "CharacterMotions": [
                 {
@@ -421,9 +421,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 15,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "ヒマなら一緒にって思ったんだけど。",
+            "Phrase": "Je pensais traîner avec vous si vous étiez libres.",
             "VoiceFileName": "10401010141",
             "CharacterMotions": [
                 {
@@ -445,9 +445,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 16,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "ごめんね、カミラちゃん！",
+            "Phrase": "Je suis désolée, Kamira !",
             "VoiceFileName": "10401010150",
             "CharacterMotions": [
                 {
@@ -469,9 +469,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 17,
-            "SpeakerName": "カミラ",
+            "SpeakerName": "Kamira",
             "FontSize": 2,
-            "Phrase": "いーって。それより慌ててケガしないようにね。/nんじゃ、また来週～。",
+            "Phrase": "Pas de problème, mais fais attention à ne pas te blesser dans la hâte. /nBon, à la semaine prochaine!",
             "VoiceFileName": "10401010160",
             "CharacterMotions": [
                 {
@@ -493,9 +493,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 18,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "はー、またやっちゃいましたねえ。/nみとちゃんとアニメの話をするの、楽しすぎるんですもん。",
+            "Phrase": "Ah... J'ai encore gaffé. C'est tellement amusant de parler d'anime avec toi...",
             "VoiceFileName": "10401010170",
             "CharacterMotions": [
                 {
@@ -527,9 +527,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 19,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "うん……ずーっとお喋りできちゃうよね。",
+            "Phrase": "Oui !  On pourrait en parler sans jamais s'arrêter.",
             "VoiceFileName": "10401010180",
             "CharacterMotions": [
                 {
@@ -559,9 +559,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 20,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "でも、どうせならもっと色んな人と語り合ってみたいです。/nふたりだけだと、どうしても話題がループしがちですし。",
+            "Phrase": "Mais j'aimerais bien en parler avec plus de gens... /nNos discussions tournent en boucle quand on est deux.",
             "VoiceFileName": "10401010190",
             "CharacterMotions": [
                 {
@@ -592,9 +592,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 21,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "……だね。",
+            "Phrase": "C'est vrai...",
             "VoiceFileName": "10401010200",
             "CharacterMotions": [
                 {
@@ -624,9 +624,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 21,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "それより、いろはちゃん、時間……。",
+            "Phrase": "Quoi qu'il en soit, Iroha, c'est l'heure...",
             "VoiceFileName": "10401010201",
             "CharacterMotions": [
                 {
@@ -656,9 +656,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 22,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "わわっ、まずいですまずいですまずいですよっ。",
+            "Phrase": "Ouah ! Ça craint, ça craint, ça craint !",
             "VoiceFileName": "10401010210",
             "CharacterMotions": [
                 {
@@ -688,9 +688,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 22,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "それじゃ、また夜に連絡しますねっ。",
+            "Phrase": "Sur ce, je t'appelerai ce soir.",
             "VoiceFileName": "10401010211",
             "CharacterMotions": [
                 {
@@ -721,9 +721,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 23,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "うん、いってらっしゃい。バイト、がんばってきてね。",
+            "Phrase": "Oui, à ce soir ! Bon courage pour ton travail.",
             "VoiceFileName": "10401010220",
             "CharacterMotions": [
                 {
@@ -755,9 +755,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 24,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "……美兎も、図書室、急がなきゃ。",
+            "Phrase": "M-Moi aussi, je dois me dépêcher d'aller à la bibliothèque.",
             "VoiceFileName": "10401010230",
             "CharacterMotions": [
                 {
@@ -795,9 +795,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 26,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "楽しかったですね、コスプレイベント！",
+            "Phrase": "L'événement cosplay était trop bien !",
             "BgmFileName": "303",
             "VoiceFileName": "10401010240",
             "CharacterMotions": [
@@ -830,9 +830,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 27,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "うん……でも、悪いことしちゃったかも。/n他のレイヤーさんと、ちゃんとお話できなかったから……。",
+            "Phrase": "Oui... Mais j'ai peut-être fait quelque chose de mal. /nJe n'ai pas réussi à parler aux autres cosplayeurs...",
             "VoiceFileName": "10401010250",
             "CharacterMotions": [
                 {
@@ -863,9 +863,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 28,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "うーん、みとちゃんは初めての人とお喋りするの、/nあまり得意じゃないですからね。",
+            "Phrase": "Hmm, c'est parce que tu as du mal à parler aux gens que tu viens de rencontrer...",
             "VoiceFileName": "10401010260",
             "CharacterMotions": [
                 {
@@ -895,9 +895,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 29,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "そうだ、僕たちも名刺を作ったらどうでしょう？",
+            "Phrase": "Tiens, et si on faisait des cartes de visites nous aussi ?",
             "VoiceFileName": "10401010270",
             "CharacterMotions": [
                 {
@@ -928,9 +928,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 29,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "確かレイヤーさんからもらった名刺が……。",
+            "Phrase": "Si je me souviens bien, la carte de visite que j'ai reçue du cosplayer est...",
             "VoiceFileName": "10401010271",
             "CharacterMotions": [
                 {
@@ -960,9 +960,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 30,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "あれ？　いろはちゃん、それ……。",
+            "Phrase": "Hein ? Iroha-chan, c'est...",
             "VoiceFileName": "10401010280",
             "CharacterMotions": [
                 {
@@ -992,9 +992,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 31,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "あ、これ。みとちゃんに見せようと思って持ってきたんです。/n会場に置いてあった『劇団電姫』のフライヤーですっ。",
+            "Phrase": "Ah ! le voilà. C’est un flyer de Gekidan Denki qui était affiché dans la salle. /nJe l’ai pris pour te le montrer.",
             "VoiceFileName": "10401010290",
             "CharacterMotions": [
                 {
@@ -1024,9 +1024,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 32,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "げきだん……でんき？",
+            "Phrase": "Gekidan... Denki ?",
             "VoiceFileName": "10401010300",
             "CharacterMotions": [
                 {
@@ -1055,9 +1055,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 33,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "はい。秋葉原にある劇団なんですが、/nメインにやっているのが2.5次元なんですよ。しかも……！",
+            "Phrase": "Oui ! C'est une compagnie de théâtre située à Akihabara qui se consacre /nprincipalement dans les médias 2.5D. Et en plus de ça… !",
             "VoiceFileName": "10401010310",
             "CharacterMotions": [
                 {
@@ -1088,9 +1088,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 34,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "わ、わ、次回公演『コードギアス 反逆のルルーシュ』なんだ。",
+            "Phrase": "O-Ouah, leur prochaine représentation c'est Code Geass : Lelouch of the Rebellion.",
             "VoiceFileName": "10401010320",
             "CharacterMotions": [
                 {
@@ -1120,9 +1120,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 35,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "これまでの電姫の公演、ネットでの評判もいいんです。/n衣装も凝ってますし、これは観るしかない……って思いまして。",
+            "Phrase": "Les précédentes représentations ont reçues de bons avis sur internet. /nLes costumes sont aussi bien travaillés, alors je me suis dit qu'il fallait absolument que j'y assiste.",
             "VoiceFileName": "10401010330",
             "CharacterMotions": [
                 {
@@ -1153,9 +1153,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 36,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "知らなかった……うん。美兎も行きたい。",
+            "Phrase": "Je ne connaissais pas... Oui. Moi aussi, je veux y aller.",
             "VoiceFileName": "10401010340",
             "CharacterMotions": [
                 {
@@ -1186,9 +1186,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 2,
             "GroupOrder": 36,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "いろはちゃん、一緒に行こう。",
+            "Phrase": "Iroha, allons-y ensemble.",
             "VoiceFileName": "10401010341",
             "CharacterMotions": [
                 {
@@ -1218,9 +1218,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 37,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "決まりです！　それじゃ、早速チケット取りますね！",
+            "Phrase": "C'est décidé ! Bon, je vais chercher les billets tout de suite !",
             "VoiceFileName": "10401010350",
             "CharacterMotions": [
                 {
@@ -1251,9 +1251,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 38,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "はあ……『反逆のルルーシュ』の舞台、楽しみです……！",
+            "Phrase": "Haah... J'ai trop hâte de voir la scène de ''Lelouch of the Rebellion''...",
             "VoiceFileName": "10401010360",
             "CharacterMotions": [
                 {
@@ -1291,9 +1291,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 40,
-            "SpeakerName": "いろは・美兎",
+            "SpeakerName": "Iroha et Mito",
             "FontSize": 2,
-            "Phrase": "はあ……。",
+            "Phrase": "Haah...",
             "BgmFileName": "8",
             "SeFileName": "121",
             "VoiceFileName": "10401010370",
@@ -1330,9 +1330,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 41,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "ああ……。あそこには確かにルルーシュたちがいました……。",
+            "Phrase": "Aah... Lelouch et ses compagnons étaient vraiment là...",
             "VoiceFileName": "10401010380",
             "CharacterMotions": [
                 {
@@ -1363,9 +1363,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 42,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "みんな、生きてたね……。/nキラキラ輝いてた。",
+            "Phrase": "Tout le monde était vivant... Ils étaient tous étincelants.",
             "VoiceFileName": "10401010390",
             "CharacterMotions": [
                 {
@@ -1396,9 +1396,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 43,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "すごすぎました……。",
+            "Phrase": "C'était trop incroyable...",
             "VoiceFileName": "10401010400",
             "CharacterMotions": [
                 {
@@ -1429,9 +1429,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 44,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "ほんっとうにすごすぎました！/n演者さんも、演出も、脚本も……リスペクトしかないです！",
+            "Phrase": "Vraiment trop incroyable ! /nLes acteurs, la mise en scène, le scénario... Je ne peux que respecter !",
             "VoiceFileName": "10401010410",
             "CharacterMotions": [
                 {
@@ -1461,9 +1461,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 45,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "原作の雰囲気はそのままで、/nそれでいて原作を上手くアレンジして作品の魅力を引き出している……！",
+            "Phrase": "L'atmosphère de l'œuvre originale a été conservée, /net pourtant, l'œuvre originale a été habilement réarrangée pour faire ressortir le charme de l'œuvre... !",
             "VoiceFileName": "10401010420",
             "CharacterMotions": [
                 {
@@ -1494,9 +1494,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 46,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "最後がまさかこんな展開になるなんて思いませんでした！/nそれでいて矛盾もなくて、次への期待も満杯なんですよ！",
+            "Phrase": "Je ne m'attendais pas à ce que les choses finissent comme ça ! /nEt pourtant il n'y a pas de contradictions. J'ai hâte de voir la prochaine représentation !",
             "VoiceFileName": "10401010430",
             "CharacterMotions": [
                 {
@@ -1527,9 +1527,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 47,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "電姫は神なんじゃないですかね！？/nあの世界観、すっごくすっごく素敵でした……。",
+            "Phrase": "Denki ne serait pas un dieu ? Cette vision du monde était tellement, tellement merveilleuse...",
             "VoiceFileName": "10401010440",
             "CharacterMotions": [
                 {
@@ -1560,9 +1560,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 48,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "……ねえ、いろはちゃん。/n電姫に、あの輪の中に入ってみたいって……思った？",
+            "Phrase": "Dis... Iroha. As-tu déjà pensé à rejoindre la troupe Denki ?",
             "VoiceFileName": "10401010450",
             "CharacterMotions": [
                 {
@@ -1585,9 +1585,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 49,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "みとちゃんは、思いませんでしたか？",
+            "Phrase": "Tu ne l'as pas pensé, toi ?",
             "VoiceFileName": "10401010460",
             "CharacterMotions": [
                 {
@@ -1609,9 +1609,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 50,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "……。美兎は……。",
+            "Phrase": "Je...",
             "VoiceFileName": "10401010470",
             "CharacterMotions": [
                 {
@@ -1633,9 +1633,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 51,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "いろはちゃんと……一緒だし、電姫なら……美兎だけじゃなくて……。/nだからきっと……いろはちゃんと同じで……。",
+            "Phrase": "On est ensemble... Je ne serai pas seule... Alors si c'est avec toi...",
             "BgmFileName": "999",
             "VoiceFileName": "10401010480",
             "CharacterMotions": [
@@ -1658,9 +1658,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 52,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "……美兎も。/n電姫に……入ってみたいっ。",
+            "Phrase": "M-Moi aussi, je veux la rejoindre.",
             "BgmFileName": "305",
             "VoiceFileName": "10401010490",
             "CharacterMotions": [
@@ -1683,9 +1683,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 53,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "決まりですっ！　それじゃあ、入団テストに応募しましょうっ！/nええと、サイトは――",
+            "Phrase": "C'est décidé alors ! Inscrivons-nous à l'examen d'entrée ! Hm, le site...",
             "VoiceFileName": "10401010500",
             "CharacterMotions": [
                 {
@@ -1715,9 +1715,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 54,
-            "SpeakerName": "美兎",
+            "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "えっ、ここで？",
+            "Phrase": "Hein, ici ?",
             "VoiceFileName": "10401010510",
             "CharacterMotions": [
                 {
@@ -1747,9 +1747,9 @@
             "EpisodeMasterId": 1040101,
             "Order": 1,
             "GroupOrder": 55,
-            "SpeakerName": "いろは",
+            "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "善は急げです！",
+            "Phrase": "Alors c’est parti !",
             "VoiceFileName": "10401010520",
             "CharacterMotions": [
                 {
@@ -1794,7 +1794,7 @@
             "Order": 1,
             "GroupOrder": 57,
             "FontSize": 2,
-            "Phrase": "――こうして、電姫の放つ鮮やかな光に導かれた若き情熱は、/n新たな物語の幕をあげるのでした。",
+            "Phrase": "C'est ainsi que leur passion naissante, guidée par la lumière éclatante émise par Denki, /nouvre les rideaux sur une nouvelle histoire.",
             "VoiceFileName": "10401010530",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
