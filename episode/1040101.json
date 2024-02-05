@@ -25,7 +25,7 @@
             "Order": 1,
             "GroupOrder": 2,
             "FontSize": 2,
-            "Phrase": "Après les cours, des jeunes pleins de potentiel brûlent leur énergie /ndans les études, le sport, l'art et leurs loisirs. ",
+            "Phrase": "Après les cours, des jeunes plein de potentiel brûlent leur énergie /ndans les études, le sport, l'art et leurs loisirs. ",
             "BackgroundImageFileName": "50",
             "SeFileName": "141",
             "VoiceFileName": "10401010020",
@@ -267,7 +267,7 @@
             "GroupOrder": 11,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "L'écran de mon téléphone est petit mais si on se serre...",
+            "Phrase": "L'écran de mon téléphone est petit, mais si on se serre...",
             "VoiceFileName": "10401010101",
             "CharacterMotions": [
                 {
@@ -930,7 +930,7 @@
             "GroupOrder": 29,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Si je me souviens bien, la carte de visite que j'ai reçue du cosplayer est...",
+            "Phrase": "Si je me souviens bien, la cartes de visite que j'ai reçue du cosplayer est...",
             "VoiceFileName": "10401010271",
             "CharacterMotions": [
                 {
@@ -1122,7 +1122,7 @@
             "GroupOrder": 35,
             "SpeakerName": "Iroha",
             "FontSize": 2,
-            "Phrase": "Les précédentes représentations ont reçues de bons avis sur internet. \nLes costumes sont aussi bien travaillés, \nalors je me suis dit qu'il fallait absolument que j'y assiste.",
+            "Phrase": "Les précédentes représentations ont reçues de bons avis sur internet. \nLes costumes sont aussi bien travaillés, alors je me suis dit \nqu'il fallait absolument que j'y assiste.",
             "VoiceFileName": "10401010330",
             "CharacterMotions": [
                 {
@@ -1463,7 +1463,7 @@
             "GroupOrder": 45,
             "SpeakerName": "Mito",
             "FontSize": 2,
-            "Phrase": "L'atmosphère de l'œuvre originale a été conservée, et pourtant, \nl'œuvre originale a été habilement réarrangée pour faire ressortir \nle charme de l'œuvre... !",
+            "Phrase": "L'atmosphère de l'œuvre originale a été conservée, et pourtant, \nelle a été habilement réarrangée pour faire ressortir \nson charme... !",
             "VoiceFileName": "10401010420",
             "CharacterMotions": [
                 {
@@ -1794,7 +1794,7 @@
             "Order": 1,
             "GroupOrder": 57,
             "FontSize": 2,
-            "Phrase": "C'est ainsi que leur passion naissante, \nguidée par la lumière éclatante émise par Denki, \nouvre les rideaux sur une nouvelle histoire.",
+            "Phrase": "C'est ainsi que leur passion naissante, guidée par la lumière \néclatante émise par Denki, ouvre les rideaux \nsur une nouvelle histoire.",
             "VoiceFileName": "10401010530",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
