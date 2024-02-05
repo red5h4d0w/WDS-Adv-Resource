@@ -732,7 +732,7 @@
             "GroupOrder": 33,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Cet étui à cartes, c'est le tien ?/nTu l'as échappé au guichet de la gare~ ?",
+            "Phrase": "Cet étui à cartes, c'est le tien ?/nTu l'as échappé au guichet de la gare～ ?",
             "BgmFileName": "402",
             "VoiceFileName": "10101010410",
             "CharacterMotions": [
@@ -831,7 +831,7 @@
             "GroupOrder": 37,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Y'a pas de quoi~",
+            "Phrase": "Y'a pas de quoi～",
             "VoiceFileName": "10101010450",
             "CharacterMotions": [
                 {
@@ -925,7 +925,7 @@
             "GroupOrder": 38,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Je peux te montrer les perles rares du coin~ ?",
+            "Phrase": "Je peux te montrer les perles rares du coin～ ?",
             "VoiceFileName": "10101010461",
             "CharacterMotions": [
                 {
@@ -1012,7 +1012,7 @@
             "GroupOrder": 41,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Oh~. Alors c'est ça~.",
+            "Phrase": "Oh～. Alors c'est ça～.",
             "VoiceFileName": "10101010490",
             "CharacterMotions": [
                 {
@@ -1169,7 +1169,7 @@
             "GroupOrder": 45,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Doucement, Daikoku./nNe crie pas si fort si brusquement~ ?",
+            "Phrase": "Doucement, Daikoku./nNe crie pas si fort si brusquement～ ?",
             "VoiceFileName": "10101010530",
             "CharacterMotions": [
                 {
@@ -1258,7 +1258,7 @@
             "GroupOrder": 48,
             "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "La troupe Sirius.../nLa troupe pour femmes lancée par Shamo Yamabuki, cette World Dai star qui fait la fierté du Japon...",
+            "Phrase": "La troupe Sirius.../nLa troupe pour femmes lancée par Shamo Yamabuki,/ncette World Dai star qui fait la fierté du Japon...",
             "VoiceFileName": "10101010560",
             "CharacterMotions": [
                 {
@@ -1390,7 +1390,7 @@
             "GroupOrder": 53,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Euh. quoi... ?",
+            "Phrase": "Euh. Quoi... ?",
             "VoiceFileName": "10101010610",
             "CharacterMotions": [
                 {
@@ -1414,7 +1414,7 @@
             "GroupOrder": 54,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Aaah~. La voilà qui recommence à parler en mal.",
+            "Phrase": "Aaah～. La voilà qui recommence à parler en mal.",
             "VoiceFileName": "10101010620",
             "CharacterMotions": [
                 {
@@ -1439,7 +1439,7 @@
             "GroupOrder": 55,
             "SpeakerName": "？？？",
             "FontSize": 2,
-            "Phrase": "Désolée~ Daikoku a raté l'audition pour Sirius trois fois./nElle leur en veut peut-être un peu~.",
+            "Phrase": "Désolée～ Daikoku a raté l'audition pour Sirius trois fois./nElle leur en veut peut-être un peu～.",
             "VoiceFileName": "10101010630",
             "CharacterMotions": [
                 {
@@ -1486,7 +1486,7 @@
             "GroupOrder": 57,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Alors, vous êtes vous-aussi comédiens ?",
+            "Phrase": "Alors, vous êtes vous aussi comédiens ?",
             "VoiceFileName": "10101010650",
             "CharacterMotions": [
                 {
@@ -1659,7 +1659,7 @@
             "GroupOrder": 63,
             "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "Hmmh ? Eh bien, nous partons dans cette direction",
+            "Phrase": "Hmmh ? Eh bien, nous partons dans cette direction.",
             "VoiceFileName": "10101010710",
             "CharacterMotions": [
                 {
@@ -1693,7 +1693,7 @@
             "GroupOrder": 63,
             "SpeakerName": "容",
             "FontSize": 2,
-            "Phrase": "Bonne chance pour l'audition~.",
+            "Phrase": "Bonne chance pour l'audition～.",
             "VoiceFileName": "10101010711",
             "CharacterMotions": [
                 {
@@ -1725,7 +1725,7 @@
             "GroupOrder": 64,
             "SpeakerName": "Daikoku",
             "FontSize": 2,
-            "Phrase": "Attends, Iruru !/nTu ne peux quand même pas souhaiter «Bonne chance» à ces ennemis... En plus à quelqu'un qui applique à Sirius !",
+            "Phrase": "Attends, Iruru !/nTu ne peux quand même pas souhaiter «Bonne chance» à ces ennemis.../nEn plus à quelqu'un qui applique à Sirius !",
             "VoiceFileName": "10101010720",
             "CharacterMotions": [
                 {
@@ -1756,7 +1756,7 @@
             "GroupOrder": 65,
             "SpeakerName": "Iruru",
             "FontSize": 2,
-            "Phrase": "Ouioui, Iruru va pouvoir écouter attentivement~/ntes médires, jusqu'au petit matin~.",
+            "Phrase": "Ouioui, Iruru va pouvoir écouter attentivement～ tes médires,/njusqu'au petit matin～.",
             "VoiceFileName": "10101010730",
             "CharacterMotions": [
                 {
@@ -1861,7 +1861,7 @@
             "GroupOrder": 68,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Aaaah, ha haha./nPar contre, ça a été d'une grande aide de retrouve mon étui à cartes.",
+            "Phrase": "Aaaah, ha haha./nPar contre, ça a été d'une grande aide de retrouver mon étui à cartes.",
             "VoiceFileName": "10101010760",
             "CharacterMotions": [
                 {
