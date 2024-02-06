@@ -956,7 +956,7 @@
             "GroupOrder": 39,
             "SpeakerName": "Kokona",
             "FontSize": 2,
-            "Phrase": "Ah, non... Ce n'est pas vraiment du tourisme/nC'est que je viens passer une audition à Asakusa.",
+            "Phrase": "Ah, non... Ce n'est pas vraiment du tourisme.../nC'est que je viens passer une audition à Asakusa.",
             "VoiceFileName": "10101010470",
             "CharacterMotions": [
                 {
@@ -1691,7 +1691,7 @@
             "EpisodeMasterId": 1010101,
             "Order": 2,
             "GroupOrder": 63,
-            "SpeakerName": "容",
+            "SpeakerName": "Iruru",
             "FontSize": 2,
             "Phrase": "Bonne chance pour l'audition～.",
             "VoiceFileName": "10101010711",
